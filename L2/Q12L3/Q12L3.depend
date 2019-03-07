@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493087596 source:c:\users\vho20\onedrive\documentos\progamaçao\l2\q12l3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

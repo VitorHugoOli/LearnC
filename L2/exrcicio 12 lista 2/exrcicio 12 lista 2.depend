@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490577175 source:c:\users\lucia\desktop\vitor\exrcicio 12 lista 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1498011994 source:c:\users\vho20\dropbox\progamaçao\l9\l9q20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

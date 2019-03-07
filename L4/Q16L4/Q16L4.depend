@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491524044 source:c:\users\lucia\desktop\vitor\q16l4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
